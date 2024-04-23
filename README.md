@@ -8,7 +8,7 @@ Um dashboard intuitivo e dinâmico, construído com Vue.js, que pode apresentar 
 
 ### ⚙️ Conteúdo
 
-[Clique aqui para acessar](https://wasleyfps.github.io/the-burger-lab/)
+[Clique aqui para acessar](wasleyfps.github.io/simple-dashboard/)
 
 ## 📦 Tecnologias usadas no game:
 
